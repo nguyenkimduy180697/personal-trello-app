@@ -20,9 +20,8 @@
 
 Author: **Nguyễn Kim Duy**
 
-Blog: https://nguyenkimduydev.com/
+Blog: https://nguyenkimduy.com/
 
-CV: https://cv.nguyenkimduydev.com/
 
 "Just do it!"
 
